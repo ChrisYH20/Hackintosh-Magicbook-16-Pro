@@ -55,4 +55,4 @@ NootedRed新版版核显驱动默认无硬解，此处使用的核显驱动来�
 - 该款机型出厂核显默认只有512M显存，原版BIOS阉割了修改显存的功能，建议使用[UniversalAMDFormBrowser](https://github.com/DavidS95/Smokeless_UMAF)修改显存为2G及以上，否则使用过程中可能会感觉到卡顿。
 
 ## 感谢
-感谢[国光](https://github.com/sqlsec)提供的教程，以及群内相关大佬（群就不放出来了）的的指导。也感谢为Hackintosh无私贡献的各位开源作者，感谢他们写的驱动。
+感谢[国光](https://github.com/sqlsec)提供的教程，以及AMD核显黑苹果交流群内相关大佬的的指导（群就不放出来了）。也感谢为Hackintosh无私贡献的各位开源作者，感谢他们写的驱动。
