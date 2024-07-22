@@ -21,7 +21,7 @@ OpenCore 版本：0.9.8
 
 理论来说同型号电脑，换过网卡就可以直接通用，不必完全相同。
 
-## 兼容性（半完美黑苹果）
+## 兼容性（半完美）
 
 ### 目前正常运行的有
 - [x] 声卡 (板载) / 网卡 
@@ -31,7 +31,7 @@ OpenCore 版本：0.9.8
 
 这里声卡id为15，亲测AMD的声卡id 15和21 均可驱动
 
-NootedRed新版版核显驱动默认无硬解，此处使用的核显驱动来自 [果农](https://github.com/htmambo/NootedRed/releases/tag/1.0.1712425054)
+NootedRed新版版核显驱动默认未添加硬解参数，此处使用的核显驱动来自 [果农修改后的NootedRed](https://github.com/htmambo/NootedRed/releases/tag/1.0.1712425054)
 
 ![sleep_fix](/readme_src/VDA.png)
 
